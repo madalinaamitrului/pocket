@@ -1,0 +1,23 @@
+.formInput {
+  margin: 10px 15px;
+  padding: 10px;
+  text-decoration: none;
+  box-sizing: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.233);
+  border-radius: 10px;
+  font-size: 14px;
+  width: 200px;
+}
+.formLabel {
+  font-size: 16px;
+  margin-left: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 80px;
+  text-align: right;
+}
+.error {
+  color: red;
+  font-size: 12px;
+  margin-left: 10px;
+}
